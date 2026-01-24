@@ -37,7 +37,7 @@ global.fetchJson = async (url, options = {}) => {
 const settings = {
   name: "Ralzz Api's",
   description: "Ralzz Api is a simple and lightweight REST API built with Express.js",
-  apiSettings: { creator: "Ralzz", apikey: ["rlzzgtg"] },
+  apiSettings: { creator: "Ralzz", apikey: ["rlzz00"] },
   linkWhatsapp: "https://t.me/rlzznew",
   linkYoutube: "https://www.youtube.com/@ralzzofc"
 };
